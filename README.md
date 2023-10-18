@@ -8,8 +8,8 @@ This app is designed in Flutter and helps to manage expenses in a simple way
 
 ## Screenshots
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="https://github.com/SandeepSatpute9271/Expense-Tracker-App/blob/master/images/Screenshot_20231018_012503.png" width="350" alt="accessibility text">
+  <img src="images/Screenshot_20231018_013210.png" width="350" title="Image1">
+  <img src="https://github.com/SandeepSatpute9271/Expense-Tracker-App/blob/master/images/Screenshot_20231018_012503.png" width="350" alt="Image2">
 </p>
 
 
