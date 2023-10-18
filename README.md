@@ -1,12 +1,13 @@
 # Expense-Tracker-App
 
-Simple Expense manager app
+Simple Expense Manager app
 
 ## Description
 
-This app is designed in flutter and helping to manage the expenses with simple way
+This app is designed in Flutter and helps to manage expenses with a simple way
 
 ## Screenshots
+![Screenshot_20231018_001110](https://github.com/SandeepSatpute9271/Expense-Tracker-App/assets/13411996/d81253d7-2e37-479a-8bd1-7d4efb1815bd)
 
 
 
