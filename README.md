@@ -9,10 +9,10 @@ This app is designed in Flutter and helps to manage expenses in a simple way
 ## Screenshots
 <p align="center">
   <img src="images/Screenshot_20231018_012503.png" width="150" hspace="20" alt="Image1">
-  <img src="images/Screenshot_20231018_013210.png" width="150" title="Image2">
-  <img src="images/Screenshot_20231018_013226.png" width="150" alt="Image3">
-  <img src="images/Screenshot_20231018_013236.png" width="150" title="Image4">
-   <img src="images/Screenshot_20231018_013247.png" width="150" title="Image4">
+  <img src="images/Screenshot_20231018_013210.png" width="150" hspace="20" title="Image2">
+  <img src="images/Screenshot_20231018_013226.png" width="150" hspace="20" alt="Image3">
+  <img src="images/Screenshot_20231018_013236.png" width="150" hspace="20" title="Image4">
+   <img src="images/Screenshot_20231018_013247.png" width="150" hspace="20" title="Image4">
 </p>
 
 
